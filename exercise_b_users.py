@@ -68,7 +68,7 @@ smallest_number = min(users["Erik"]["lottery_numbers"])
 print(smallest_number)
 
 # 6. Return an array of Avril's lottery numbers that are even
-# I googled help for this one as I was stuck
+
 Avril_lottery_numbers = users["Avril"]["lottery_numbers"]
 
 even_numbers = [0]
